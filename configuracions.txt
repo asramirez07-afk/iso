@@ -1,1 +1,2 @@
 configuracion inicial del projecte
+Configuracio de la branca desenvolupament
